@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: db4982091e62855468156eaef5c58660
+timeCreated: 1534554173
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: niya-anderson-archdemon-spritesheet-animations_0
+    21300002: niya-anderson-archdemon-spritesheet-animations_1
+    21300004: niya-anderson-archdemon-spritesheet-animations_2
+    21300006: niya-anderson-archdemon-spritesheet-animations_3
+    21300008: niya-anderson-archdemon-spritesheet-animations_4
+    21300010: niya-anderson-archdemon-spritesheet-animations_5
+    21300012: niya-anderson-archdemon-spritesheet-animations_6
+    21300014: niya-anderson-archdemon-spritesheet-animations_7
+    21300016: niya-anderson-archdemon-spritesheet-animations_8
+    21300018: niya-anderson-archdemon-spritesheet-animations_9
+    21300020: niya-anderson-archdemon-spritesheet-animations_10
+    21300022: niya-anderson-archdemon-spritesheet-animations_11
+    21300024: niya-anderson-archdemon-spritesheet-animations_12
+    21300026: niya-anderson-archdemon-spritesheet-animations_13
+    21300028: niya-anderson-archdemon-spritesheet-animations_14
+    21300030: niya-anderson-archdemon-spritesheet-animations_15
+    21300032: niya-anderson-archdemon-spritesheet-animations_16
+    21300034: niya-anderson-archdemon-spritesheet-animations_17
+    21300036: niya-anderson-archdemon-spritesheet-animations_18
+    21300038: niya-anderson-archdemon-spritesheet-animations_19
+    21300040: niya-anderson-archdemon-spritesheet-animations_20
+    21300042: niya-anderson-archdemon-spritesheet-animations_21
+    21300044: niya-anderson-archdemon-spritesheet-animations_22
+    21300046: niya-anderson-archdemon-spritesheet-animations_23
+    21300048: niya-anderson-archdemon-spritesheet-animations_24
+    21300050: niya-anderson-archdemon-spritesheet-animations_25
+    21300052: niya-anderson-archdemon-spritesheet-animations_26
+    21300054: niya-anderson-archdemon-spritesheet-animations_27
+    21300056: niya-anderson-archdemon-spritesheet-animations_28
+    21300058: niya-anderson-archdemon-spritesheet-animations_29
+    21300060: niya-anderson-archdemon-spritesheet-animations_30
+    21300062: niya-anderson-archdemon-spritesheet-animations_31
+    21300064: niya-anderson-archdemon-spritesheet-animations_32
+    21300066: niya-anderson-archdemon-spritesheet-animations_33
+    21300068: niya-anderson-archdemon-spritesheet-animations_34
+    21300070: niya-anderson-archdemon-spritesheet-animations_35
+    21300072: niya-anderson-archdemon-spritesheet-animations_36
+    21300074: niya-anderson-archdemon-spritesheet-animations_37
+    21300076: niya-anderson-archdemon-spritesheet-animations_38
+    21300078: niya-anderson-archdemon-spritesheet-animations_39
+    21300080: niya-anderson-archdemon-spritesheet-animations_40
+    21300082: niya-anderson-archdemon-spritesheet-animations_41
+    21300084: niya-anderson-archdemon-spritesheet-animations_42
+    21300086: niya-anderson-archdemon-spritesheet-animations_43
+    21300088: niya-anderson-archdemon-spritesheet-animations_44
+    21300090: niya-anderson-archdemon-spritesheet-animations_45
+    21300092: niya-anderson-archdemon-spritesheet-animations_46
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 578
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 586
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 574
+        width: 71
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 650
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 652
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 583
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 583
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 431
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 435
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 432
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 425
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 445
+        width: 83
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 290
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 289
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 297
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 395
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_16
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 364
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_17
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 376
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 359
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 341
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 317
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 313
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_22
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 243
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_23
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 284
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 276
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 276
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 276
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_27
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 276
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 276
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 143
+        width: 79
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 151
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 151
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 204
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_33
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 215
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 201
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 205
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_36
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 205
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 23
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 23
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 23
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_40
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 23
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 103
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_42
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 86
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 72
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_44
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 60
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_45
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 7
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niya-anderson-archdemon-spritesheet-animations_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 7
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

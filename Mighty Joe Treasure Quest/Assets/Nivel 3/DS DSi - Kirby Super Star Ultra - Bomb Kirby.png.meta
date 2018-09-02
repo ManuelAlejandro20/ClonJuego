@@ -1,0 +1,2270 @@
+fileFormatVersion: 2
+guid: 863db15360eddb24b8cf7175dc0c1d7d
+timeCreated: 1532647793
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS DSi - Kirby Super Star Ultra - Bomb Kirby_0
+    21300002: DS DSi - Kirby Super Star Ultra - Bomb Kirby_1
+    21300004: DS DSi - Kirby Super Star Ultra - Bomb Kirby_2
+    21300006: DS DSi - Kirby Super Star Ultra - Bomb Kirby_3
+    21300008: DS DSi - Kirby Super Star Ultra - Bomb Kirby_4
+    21300010: DS DSi - Kirby Super Star Ultra - Bomb Kirby_5
+    21300012: DS DSi - Kirby Super Star Ultra - Bomb Kirby_6
+    21300014: DS DSi - Kirby Super Star Ultra - Bomb Kirby_7
+    21300016: DS DSi - Kirby Super Star Ultra - Bomb Kirby_8
+    21300018: DS DSi - Kirby Super Star Ultra - Bomb Kirby_9
+    21300020: DS DSi - Kirby Super Star Ultra - Bomb Kirby_10
+    21300022: DS DSi - Kirby Super Star Ultra - Bomb Kirby_11
+    21300024: DS DSi - Kirby Super Star Ultra - Bomb Kirby_12
+    21300026: DS DSi - Kirby Super Star Ultra - Bomb Kirby_13
+    21300028: DS DSi - Kirby Super Star Ultra - Bomb Kirby_14
+    21300030: DS DSi - Kirby Super Star Ultra - Bomb Kirby_15
+    21300032: DS DSi - Kirby Super Star Ultra - Bomb Kirby_16
+    21300034: DS DSi - Kirby Super Star Ultra - Bomb Kirby_17
+    21300036: DS DSi - Kirby Super Star Ultra - Bomb Kirby_18
+    21300038: DS DSi - Kirby Super Star Ultra - Bomb Kirby_19
+    21300040: DS DSi - Kirby Super Star Ultra - Bomb Kirby_20
+    21300042: DS DSi - Kirby Super Star Ultra - Bomb Kirby_21
+    21300044: DS DSi - Kirby Super Star Ultra - Bomb Kirby_22
+    21300046: DS DSi - Kirby Super Star Ultra - Bomb Kirby_23
+    21300048: DS DSi - Kirby Super Star Ultra - Bomb Kirby_24
+    21300050: DS DSi - Kirby Super Star Ultra - Bomb Kirby_25
+    21300052: DS DSi - Kirby Super Star Ultra - Bomb Kirby_26
+    21300054: DS DSi - Kirby Super Star Ultra - Bomb Kirby_27
+    21300056: DS DSi - Kirby Super Star Ultra - Bomb Kirby_28
+    21300058: DS DSi - Kirby Super Star Ultra - Bomb Kirby_29
+    21300060: DS DSi - Kirby Super Star Ultra - Bomb Kirby_30
+    21300062: DS DSi - Kirby Super Star Ultra - Bomb Kirby_31
+    21300064: DS DSi - Kirby Super Star Ultra - Bomb Kirby_32
+    21300066: DS DSi - Kirby Super Star Ultra - Bomb Kirby_33
+    21300068: DS DSi - Kirby Super Star Ultra - Bomb Kirby_34
+    21300070: DS DSi - Kirby Super Star Ultra - Bomb Kirby_35
+    21300072: DS DSi - Kirby Super Star Ultra - Bomb Kirby_36
+    21300074: DS DSi - Kirby Super Star Ultra - Bomb Kirby_37
+    21300076: DS DSi - Kirby Super Star Ultra - Bomb Kirby_38
+    21300078: DS DSi - Kirby Super Star Ultra - Bomb Kirby_39
+    21300080: DS DSi - Kirby Super Star Ultra - Bomb Kirby_40
+    21300082: DS DSi - Kirby Super Star Ultra - Bomb Kirby_41
+    21300084: DS DSi - Kirby Super Star Ultra - Bomb Kirby_42
+    21300086: DS DSi - Kirby Super Star Ultra - Bomb Kirby_43
+    21300088: DS DSi - Kirby Super Star Ultra - Bomb Kirby_44
+    21300090: DS DSi - Kirby Super Star Ultra - Bomb Kirby_45
+    21300092: DS DSi - Kirby Super Star Ultra - Bomb Kirby_46
+    21300094: DS DSi - Kirby Super Star Ultra - Bomb Kirby_47
+    21300096: DS DSi - Kirby Super Star Ultra - Bomb Kirby_48
+    21300098: DS DSi - Kirby Super Star Ultra - Bomb Kirby_49
+    21300100: DS DSi - Kirby Super Star Ultra - Bomb Kirby_50
+    21300102: DS DSi - Kirby Super Star Ultra - Bomb Kirby_51
+    21300104: DS DSi - Kirby Super Star Ultra - Bomb Kirby_52
+    21300106: DS DSi - Kirby Super Star Ultra - Bomb Kirby_53
+    21300108: DS DSi - Kirby Super Star Ultra - Bomb Kirby_54
+    21300110: DS DSi - Kirby Super Star Ultra - Bomb Kirby_55
+    21300112: DS DSi - Kirby Super Star Ultra - Bomb Kirby_56
+    21300114: DS DSi - Kirby Super Star Ultra - Bomb Kirby_57
+    21300116: DS DSi - Kirby Super Star Ultra - Bomb Kirby_58
+    21300118: DS DSi - Kirby Super Star Ultra - Bomb Kirby_59
+    21300120: DS DSi - Kirby Super Star Ultra - Bomb Kirby_60
+    21300122: DS DSi - Kirby Super Star Ultra - Bomb Kirby_61
+    21300124: DS DSi - Kirby Super Star Ultra - Bomb Kirby_62
+    21300126: DS DSi - Kirby Super Star Ultra - Bomb Kirby_63
+    21300128: DS DSi - Kirby Super Star Ultra - Bomb Kirby_64
+    21300130: DS DSi - Kirby Super Star Ultra - Bomb Kirby_65
+    21300132: DS DSi - Kirby Super Star Ultra - Bomb Kirby_66
+    21300134: DS DSi - Kirby Super Star Ultra - Bomb Kirby_67
+    21300136: DS DSi - Kirby Super Star Ultra - Bomb Kirby_68
+    21300138: DS DSi - Kirby Super Star Ultra - Bomb Kirby_69
+    21300140: DS DSi - Kirby Super Star Ultra - Bomb Kirby_70
+    21300142: DS DSi - Kirby Super Star Ultra - Bomb Kirby_71
+    21300144: DS DSi - Kirby Super Star Ultra - Bomb Kirby_72
+    21300146: DS DSi - Kirby Super Star Ultra - Bomb Kirby_73
+    21300148: DS DSi - Kirby Super Star Ultra - Bomb Kirby_74
+    21300150: DS DSi - Kirby Super Star Ultra - Bomb Kirby_75
+    21300152: DS DSi - Kirby Super Star Ultra - Bomb Kirby_76
+    21300154: DS DSi - Kirby Super Star Ultra - Bomb Kirby_77
+    21300156: DS DSi - Kirby Super Star Ultra - Bomb Kirby_78
+    21300158: DS DSi - Kirby Super Star Ultra - Bomb Kirby_79
+    21300160: DS DSi - Kirby Super Star Ultra - Bomb Kirby_80
+    21300162: DS DSi - Kirby Super Star Ultra - Bomb Kirby_81
+    21300164: DS DSi - Kirby Super Star Ultra - Bomb Kirby_82
+    21300166: DS DSi - Kirby Super Star Ultra - Bomb Kirby_83
+    21300168: DS DSi - Kirby Super Star Ultra - Bomb Kirby_84
+    21300170: DS DSi - Kirby Super Star Ultra - Bomb Kirby_85
+    21300172: DS DSi - Kirby Super Star Ultra - Bomb Kirby_86
+    21300174: DS DSi - Kirby Super Star Ultra - Bomb Kirby_87
+    21300176: DS DSi - Kirby Super Star Ultra - Bomb Kirby_88
+    21300178: DS DSi - Kirby Super Star Ultra - Bomb Kirby_89
+    21300180: DS DSi - Kirby Super Star Ultra - Bomb Kirby_90
+    21300182: DS DSi - Kirby Super Star Ultra - Bomb Kirby_91
+    21300184: DS DSi - Kirby Super Star Ultra - Bomb Kirby_92
+    21300186: DS DSi - Kirby Super Star Ultra - Bomb Kirby_93
+    21300188: DS DSi - Kirby Super Star Ultra - Bomb Kirby_94
+    21300190: DS DSi - Kirby Super Star Ultra - Bomb Kirby_95
+    21300192: DS DSi - Kirby Super Star Ultra - Bomb Kirby_96
+    21300194: DS DSi - Kirby Super Star Ultra - Bomb Kirby_97
+    21300196: DS DSi - Kirby Super Star Ultra - Bomb Kirby_98
+    21300198: DS DSi - Kirby Super Star Ultra - Bomb Kirby_99
+    21300200: DS DSi - Kirby Super Star Ultra - Bomb Kirby_100
+    21300202: DS DSi - Kirby Super Star Ultra - Bomb Kirby_101
+    21300204: DS DSi - Kirby Super Star Ultra - Bomb Kirby_102
+    21300206: DS DSi - Kirby Super Star Ultra - Bomb Kirby_103
+    21300208: DS DSi - Kirby Super Star Ultra - Bomb Kirby_104
+    21300210: DS DSi - Kirby Super Star Ultra - Bomb Kirby_105
+    21300212: DS DSi - Kirby Super Star Ultra - Bomb Kirby_106
+    21300214: DS DSi - Kirby Super Star Ultra - Bomb Kirby_107
+    21300216: DS DSi - Kirby Super Star Ultra - Bomb Kirby_108
+    21300218: DS DSi - Kirby Super Star Ultra - Bomb Kirby_109
+    21300220: DS DSi - Kirby Super Star Ultra - Bomb Kirby_110
+    21300222: DS DSi - Kirby Super Star Ultra - Bomb Kirby_111
+    21300224: DS DSi - Kirby Super Star Ultra - Bomb Kirby_112
+    21300226: DS DSi - Kirby Super Star Ultra - Bomb Kirby_113
+    21300228: DS DSi - Kirby Super Star Ultra - Bomb Kirby_114
+    21300230: DS DSi - Kirby Super Star Ultra - Bomb Kirby_115
+    21300232: DS DSi - Kirby Super Star Ultra - Bomb Kirby_116
+    21300234: DS DSi - Kirby Super Star Ultra - Bomb Kirby_117
+    21300236: DS DSi - Kirby Super Star Ultra - Bomb Kirby_118
+    21300238: DS DSi - Kirby Super Star Ultra - Bomb Kirby_119
+    21300240: DS DSi - Kirby Super Star Ultra - Bomb Kirby_120
+    21300242: DS DSi - Kirby Super Star Ultra - Bomb Kirby_121
+    21300244: DS DSi - Kirby Super Star Ultra - Bomb Kirby_122
+    21300246: DS DSi - Kirby Super Star Ultra - Bomb Kirby_123
+    21300248: DS DSi - Kirby Super Star Ultra - Bomb Kirby_124
+    21300250: DS DSi - Kirby Super Star Ultra - Bomb Kirby_125
+    21300252: DS DSi - Kirby Super Star Ultra - Bomb Kirby_126
+    21300254: DS DSi - Kirby Super Star Ultra - Bomb Kirby_127
+    21300256: DS DSi - Kirby Super Star Ultra - Bomb Kirby_128
+    21300258: DS DSi - Kirby Super Star Ultra - Bomb Kirby_129
+    21300260: DS DSi - Kirby Super Star Ultra - Bomb Kirby_132
+    21300262: DS DSi - Kirby Super Star Ultra - Bomb Kirby_133
+    21300264: DS DSi - Kirby Super Star Ultra - Bomb Kirby_134
+    21300266: DS DSi - Kirby Super Star Ultra - Bomb Kirby_136
+    21300268: DS DSi - Kirby Super Star Ultra - Bomb Kirby_137
+    21300270: DS DSi - Kirby Super Star Ultra - Bomb Kirby_138
+    21300272: DS DSi - Kirby Super Star Ultra - Bomb Kirby_139
+    21300274: DS DSi - Kirby Super Star Ultra - Bomb Kirby_140
+    21300276: DS DSi - Kirby Super Star Ultra - Bomb Kirby_141
+    21300278: DS DSi - Kirby Super Star Ultra - Bomb Kirby_142
+    21300280: DS DSi - Kirby Super Star Ultra - Bomb Kirby_143
+    21300282: DS DSi - Kirby Super Star Ultra - Bomb Kirby_144
+    21300284: DS DSi - Kirby Super Star Ultra - Bomb Kirby_145
+    21300286: DS DSi - Kirby Super Star Ultra - Bomb Kirby_146
+    21300288: DS DSi - Kirby Super Star Ultra - Bomb Kirby_147
+    21300290: DS DSi - Kirby Super Star Ultra - Bomb Kirby_148
+    21300292: DS DSi - Kirby Super Star Ultra - Bomb Kirby_149
+    21300294: DS DSi - Kirby Super Star Ultra - Bomb Kirby_150
+    21300296: DS DSi - Kirby Super Star Ultra - Bomb Kirby_153
+    21300298: DS DSi - Kirby Super Star Ultra - Bomb Kirby_154
+    21300300: DS DSi - Kirby Super Star Ultra - Bomb Kirby_155
+    21300302: DS DSi - Kirby Super Star Ultra - Bomb Kirby_156
+    21300304: DS DSi - Kirby Super Star Ultra - Bomb Kirby_158
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 457
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 457
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 457
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 457
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 459
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 460
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 460
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 460
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 460
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_9
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 460
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 460
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 460
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 460
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 460
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 460
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 417
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 417
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 417
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 417
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 417
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 417
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 417
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 417
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 417
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_24
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 417
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_25
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 417
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 417
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_27
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 417
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 377
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 377
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 377
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 376
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 378
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 380
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_34
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 378
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 377
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 375
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 371
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_38
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 375
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_39
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 375
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_40
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 376
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_41
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 375
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_42
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 375
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_43
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 339
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 339
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_45
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 339
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 333
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 333
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 334
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_49
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 335
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_50
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 335
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_51
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 335
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 335
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_53
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 335
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_54
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 335
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_55
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 337
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 336
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_57
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 299
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_58
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 299
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_59
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 299
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 283
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_61
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 283
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 284
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_63
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 291
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_64
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 291
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_65
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 291
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_66
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 291
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_67
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 291
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_68
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 292
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_69
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 292
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_70
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 292
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_71
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 261
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_72
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 261
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_73
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 261
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_74
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 240
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_75
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 240
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_76
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 241
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_77
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 242
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 243
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 244
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_80
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 242
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_81
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 242
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_82
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 242
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_83
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 243
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_84
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 244
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_85
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 223
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_86
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 223
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_87
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 223
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 199
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_89
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 199
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_90
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 198
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_91
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_92
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 196
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_93
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 196
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_94
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 196
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_95
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 196
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_96
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 196
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_97
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 196
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_98
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 186
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_99
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 186
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_100
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 186
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_101
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 199
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_105
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 150
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_106
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_107
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 150
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_108
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 150
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_109
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 150
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_110
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 150
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_111
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 150
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_112
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 150
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_113
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 150
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_114
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 150
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_117
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 132
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_118
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 105
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_119
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 106
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_120
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 105
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_121
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 106
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_122
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 106
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_123
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 106
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_124
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 109
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_125
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 109
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_126
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 109
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_127
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 109
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_129
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_132
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 56
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_133
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 64
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_134
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 129
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_136
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 66
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_138
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 64
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_139
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 64
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_140
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 64
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_141
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 64
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_142
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 63
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_147
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 8
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_148
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 15
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_149
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 15
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_150
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 15
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_153
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 24
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_154
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 15
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_155
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 13
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_158
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Bomb Kirby_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 30
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

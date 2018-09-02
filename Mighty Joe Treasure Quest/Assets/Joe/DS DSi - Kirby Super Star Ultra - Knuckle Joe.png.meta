@@ -1,0 +1,2682 @@
+fileFormatVersion: 2
+guid: de77c62b325d75e479d7845ec04a1291
+timeCreated: 1526796497
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS DSi - Kirby Super Star Ultra - Knuckle Joe_0
+    21300002: DS DSi - Kirby Super Star Ultra - Knuckle Joe_1
+    21300004: DS DSi - Kirby Super Star Ultra - Knuckle Joe_2
+    21300006: DS DSi - Kirby Super Star Ultra - Knuckle Joe_3
+    21300008: DS DSi - Kirby Super Star Ultra - Knuckle Joe_4
+    21300010: DS DSi - Kirby Super Star Ultra - Knuckle Joe_5
+    21300012: DS DSi - Kirby Super Star Ultra - Knuckle Joe_6
+    21300014: DS DSi - Kirby Super Star Ultra - Knuckle Joe_7
+    21300016: DS DSi - Kirby Super Star Ultra - Knuckle Joe_8
+    21300018: DS DSi - Kirby Super Star Ultra - Knuckle Joe_9
+    21300020: DS DSi - Kirby Super Star Ultra - Knuckle Joe_10
+    21300022: DS DSi - Kirby Super Star Ultra - Knuckle Joe_11
+    21300024: DS DSi - Kirby Super Star Ultra - Knuckle Joe_12
+    21300026: DS DSi - Kirby Super Star Ultra - Knuckle Joe_13
+    21300028: DS DSi - Kirby Super Star Ultra - Knuckle Joe_14
+    21300030: DS DSi - Kirby Super Star Ultra - Knuckle Joe_15
+    21300032: DS DSi - Kirby Super Star Ultra - Knuckle Joe_16
+    21300034: DS DSi - Kirby Super Star Ultra - Knuckle Joe_17
+    21300036: DS DSi - Kirby Super Star Ultra - Knuckle Joe_18
+    21300038: DS DSi - Kirby Super Star Ultra - Knuckle Joe_19
+    21300040: DS DSi - Kirby Super Star Ultra - Knuckle Joe_20
+    21300042: DS DSi - Kirby Super Star Ultra - Knuckle Joe_21
+    21300044: DS DSi - Kirby Super Star Ultra - Knuckle Joe_22
+    21300046: DS DSi - Kirby Super Star Ultra - Knuckle Joe_23
+    21300048: DS DSi - Kirby Super Star Ultra - Knuckle Joe_24
+    21300050: DS DSi - Kirby Super Star Ultra - Knuckle Joe_25
+    21300052: DS DSi - Kirby Super Star Ultra - Knuckle Joe_26
+    21300054: DS DSi - Kirby Super Star Ultra - Knuckle Joe_27
+    21300056: DS DSi - Kirby Super Star Ultra - Knuckle Joe_28
+    21300058: DS DSi - Kirby Super Star Ultra - Knuckle Joe_29
+    21300060: DS DSi - Kirby Super Star Ultra - Knuckle Joe_30
+    21300062: DS DSi - Kirby Super Star Ultra - Knuckle Joe_31
+    21300064: DS DSi - Kirby Super Star Ultra - Knuckle Joe_32
+    21300066: DS DSi - Kirby Super Star Ultra - Knuckle Joe_33
+    21300068: DS DSi - Kirby Super Star Ultra - Knuckle Joe_34
+    21300070: DS DSi - Kirby Super Star Ultra - Knuckle Joe_35
+    21300072: DS DSi - Kirby Super Star Ultra - Knuckle Joe_36
+    21300074: DS DSi - Kirby Super Star Ultra - Knuckle Joe_37
+    21300076: DS DSi - Kirby Super Star Ultra - Knuckle Joe_38
+    21300078: DS DSi - Kirby Super Star Ultra - Knuckle Joe_39
+    21300080: DS DSi - Kirby Super Star Ultra - Knuckle Joe_40
+    21300082: DS DSi - Kirby Super Star Ultra - Knuckle Joe_41
+    21300084: DS DSi - Kirby Super Star Ultra - Knuckle Joe_42
+    21300086: DS DSi - Kirby Super Star Ultra - Knuckle Joe_43
+    21300088: DS DSi - Kirby Super Star Ultra - Knuckle Joe_44
+    21300090: DS DSi - Kirby Super Star Ultra - Knuckle Joe_45
+    21300092: DS DSi - Kirby Super Star Ultra - Knuckle Joe_46
+    21300094: DS DSi - Kirby Super Star Ultra - Knuckle Joe_47
+    21300096: DS DSi - Kirby Super Star Ultra - Knuckle Joe_48
+    21300098: DS DSi - Kirby Super Star Ultra - Knuckle Joe_49
+    21300100: DS DSi - Kirby Super Star Ultra - Knuckle Joe_50
+    21300102: DS DSi - Kirby Super Star Ultra - Knuckle Joe_51
+    21300104: DS DSi - Kirby Super Star Ultra - Knuckle Joe_52
+    21300106: DS DSi - Kirby Super Star Ultra - Knuckle Joe_53
+    21300108: DS DSi - Kirby Super Star Ultra - Knuckle Joe_54
+    21300110: DS DSi - Kirby Super Star Ultra - Knuckle Joe_55
+    21300112: DS DSi - Kirby Super Star Ultra - Knuckle Joe_56
+    21300114: DS DSi - Kirby Super Star Ultra - Knuckle Joe_57
+    21300116: DS DSi - Kirby Super Star Ultra - Knuckle Joe_58
+    21300118: DS DSi - Kirby Super Star Ultra - Knuckle Joe_59
+    21300120: DS DSi - Kirby Super Star Ultra - Knuckle Joe_60
+    21300122: DS DSi - Kirby Super Star Ultra - Knuckle Joe_61
+    21300124: DS DSi - Kirby Super Star Ultra - Knuckle Joe_62
+    21300126: DS DSi - Kirby Super Star Ultra - Knuckle Joe_63
+    21300128: DS DSi - Kirby Super Star Ultra - Knuckle Joe_64
+    21300130: DS DSi - Kirby Super Star Ultra - Knuckle Joe_65
+    21300132: DS DSi - Kirby Super Star Ultra - Knuckle Joe_66
+    21300134: DS DSi - Kirby Super Star Ultra - Knuckle Joe_67
+    21300136: DS DSi - Kirby Super Star Ultra - Knuckle Joe_68
+    21300138: DS DSi - Kirby Super Star Ultra - Knuckle Joe_69
+    21300140: DS DSi - Kirby Super Star Ultra - Knuckle Joe_70
+    21300142: DS DSi - Kirby Super Star Ultra - Knuckle Joe_71
+    21300144: DS DSi - Kirby Super Star Ultra - Knuckle Joe_72
+    21300146: DS DSi - Kirby Super Star Ultra - Knuckle Joe_73
+    21300148: DS DSi - Kirby Super Star Ultra - Knuckle Joe_74
+    21300150: DS DSi - Kirby Super Star Ultra - Knuckle Joe_75
+    21300152: DS DSi - Kirby Super Star Ultra - Knuckle Joe_76
+    21300154: DS DSi - Kirby Super Star Ultra - Knuckle Joe_77
+    21300156: DS DSi - Kirby Super Star Ultra - Knuckle Joe_78
+    21300158: DS DSi - Kirby Super Star Ultra - Knuckle Joe_79
+    21300160: DS DSi - Kirby Super Star Ultra - Knuckle Joe_80
+    21300162: DS DSi - Kirby Super Star Ultra - Knuckle Joe_81
+    21300164: DS DSi - Kirby Super Star Ultra - Knuckle Joe_82
+    21300166: DS DSi - Kirby Super Star Ultra - Knuckle Joe_83
+    21300168: DS DSi - Kirby Super Star Ultra - Knuckle Joe_84
+    21300170: DS DSi - Kirby Super Star Ultra - Knuckle Joe_85
+    21300172: DS DSi - Kirby Super Star Ultra - Knuckle Joe_86
+    21300174: DS DSi - Kirby Super Star Ultra - Knuckle Joe_87
+    21300176: DS DSi - Kirby Super Star Ultra - Knuckle Joe_88
+    21300178: DS DSi - Kirby Super Star Ultra - Knuckle Joe_89
+    21300180: DS DSi - Kirby Super Star Ultra - Knuckle Joe_90
+    21300182: DS DSi - Kirby Super Star Ultra - Knuckle Joe_91
+    21300184: DS DSi - Kirby Super Star Ultra - Knuckle Joe_92
+    21300186: DS DSi - Kirby Super Star Ultra - Knuckle Joe_93
+    21300188: DS DSi - Kirby Super Star Ultra - Knuckle Joe_94
+    21300190: DS DSi - Kirby Super Star Ultra - Knuckle Joe_95
+    21300192: DS DSi - Kirby Super Star Ultra - Knuckle Joe_96
+    21300194: DS DSi - Kirby Super Star Ultra - Knuckle Joe_97
+    21300196: DS DSi - Kirby Super Star Ultra - Knuckle Joe_98
+    21300198: DS DSi - Kirby Super Star Ultra - Knuckle Joe_99
+    21300200: DS DSi - Kirby Super Star Ultra - Knuckle Joe_100
+    21300202: DS DSi - Kirby Super Star Ultra - Knuckle Joe_101
+    21300204: DS DSi - Kirby Super Star Ultra - Knuckle Joe_102
+    21300206: DS DSi - Kirby Super Star Ultra - Knuckle Joe_103
+    21300208: DS DSi - Kirby Super Star Ultra - Knuckle Joe_104
+    21300210: DS DSi - Kirby Super Star Ultra - Knuckle Joe_105
+    21300212: DS DSi - Kirby Super Star Ultra - Knuckle Joe_106
+    21300214: DS DSi - Kirby Super Star Ultra - Knuckle Joe_107
+    21300216: DS DSi - Kirby Super Star Ultra - Knuckle Joe_108
+    21300218: DS DSi - Kirby Super Star Ultra - Knuckle Joe_109
+    21300220: DS DSi - Kirby Super Star Ultra - Knuckle Joe_110
+    21300222: DS DSi - Kirby Super Star Ultra - Knuckle Joe_111
+    21300224: DS DSi - Kirby Super Star Ultra - Knuckle Joe_112
+    21300226: DS DSi - Kirby Super Star Ultra - Knuckle Joe_113
+    21300228: DS DSi - Kirby Super Star Ultra - Knuckle Joe_114
+    21300230: DS DSi - Kirby Super Star Ultra - Knuckle Joe_115
+    21300232: DS DSi - Kirby Super Star Ultra - Knuckle Joe_116
+    21300234: DS DSi - Kirby Super Star Ultra - Knuckle Joe_117
+    21300236: DS DSi - Kirby Super Star Ultra - Knuckle Joe_118
+    21300238: DS DSi - Kirby Super Star Ultra - Knuckle Joe_119
+    21300240: DS DSi - Kirby Super Star Ultra - Knuckle Joe_120
+    21300242: DS DSi - Kirby Super Star Ultra - Knuckle Joe_121
+    21300244: DS DSi - Kirby Super Star Ultra - Knuckle Joe_122
+    21300246: DS DSi - Kirby Super Star Ultra - Knuckle Joe_123
+    21300248: DS DSi - Kirby Super Star Ultra - Knuckle Joe_124
+    21300250: DS DSi - Kirby Super Star Ultra - Knuckle Joe_125
+    21300252: DS DSi - Kirby Super Star Ultra - Knuckle Joe_126
+    21300254: DS DSi - Kirby Super Star Ultra - Knuckle Joe_127
+    21300256: DS DSi - Kirby Super Star Ultra - Knuckle Joe_128
+    21300258: DS DSi - Kirby Super Star Ultra - Knuckle Joe_129
+    21300260: DS DSi - Kirby Super Star Ultra - Knuckle Joe_130
+    21300262: DS DSi - Kirby Super Star Ultra - Knuckle Joe_131
+    21300264: DS DSi - Kirby Super Star Ultra - Knuckle Joe_132
+    21300266: DS DSi - Kirby Super Star Ultra - Knuckle Joe_133
+    21300268: DS DSi - Kirby Super Star Ultra - Knuckle Joe_134
+    21300270: DS DSi - Kirby Super Star Ultra - Knuckle Joe_135
+    21300272: DS DSi - Kirby Super Star Ultra - Knuckle Joe_136
+    21300274: DS DSi - Kirby Super Star Ultra - Knuckle Joe_137
+    21300276: DS DSi - Kirby Super Star Ultra - Knuckle Joe_138
+    21300278: DS DSi - Kirby Super Star Ultra - Knuckle Joe_139
+    21300280: DS DSi - Kirby Super Star Ultra - Knuckle Joe_140
+    21300282: DS DSi - Kirby Super Star Ultra - Knuckle Joe_141
+    21300284: DS DSi - Kirby Super Star Ultra - Knuckle Joe_142
+    21300286: DS DSi - Kirby Super Star Ultra - Knuckle Joe_143
+    21300288: DS DSi - Kirby Super Star Ultra - Knuckle Joe_144
+    21300290: DS DSi - Kirby Super Star Ultra - Knuckle Joe_145
+    21300292: DS DSi - Kirby Super Star Ultra - Knuckle Joe_146
+    21300294: DS DSi - Kirby Super Star Ultra - Knuckle Joe_147
+    21300296: DS DSi - Kirby Super Star Ultra - Knuckle Joe_148
+    21300298: DS DSi - Kirby Super Star Ultra - Knuckle Joe_149
+    21300300: DS DSi - Kirby Super Star Ultra - Knuckle Joe_150
+    21300302: DS DSi - Kirby Super Star Ultra - Knuckle Joe_151
+    21300304: DS DSi - Kirby Super Star Ultra - Knuckle Joe_152
+    21300306: DS DSi - Kirby Super Star Ultra - Knuckle Joe_153
+    21300308: DS DSi - Kirby Super Star Ultra - Knuckle Joe_154
+    21300310: DS DSi - Kirby Super Star Ultra - Knuckle Joe_155
+    21300312: DS DSi - Kirby Super Star Ultra - Knuckle Joe_156
+    21300314: DS DSi - Kirby Super Star Ultra - Knuckle Joe_157
+    21300316: DS DSi - Kirby Super Star Ultra - Knuckle Joe_158
+    21300318: DS DSi - Kirby Super Star Ultra - Knuckle Joe_159
+    21300320: DS DSi - Kirby Super Star Ultra - Knuckle Joe_160
+    21300322: DS DSi - Kirby Super Star Ultra - Knuckle Joe_161
+    21300324: DS DSi - Kirby Super Star Ultra - Knuckle Joe_162
+    21300326: DS DSi - Kirby Super Star Ultra - Knuckle Joe_163
+    21300328: DS DSi - Kirby Super Star Ultra - Knuckle Joe_164
+    21300330: DS DSi - Kirby Super Star Ultra - Knuckle Joe_165
+    21300332: DS DSi - Kirby Super Star Ultra - Knuckle Joe_166
+    21300334: DS DSi - Kirby Super Star Ultra - Knuckle Joe_167
+    21300336: DS DSi - Kirby Super Star Ultra - Knuckle Joe_168
+    21300338: DS DSi - Kirby Super Star Ultra - Knuckle Joe_169
+    21300340: DS DSi - Kirby Super Star Ultra - Knuckle Joe_170
+    21300342: DS DSi - Kirby Super Star Ultra - Knuckle Joe_171
+    21300344: DS DSi - Kirby Super Star Ultra - Knuckle Joe_172
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1253
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1262
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1253
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1211
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1211
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1211
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1215
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1215
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1215
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1211
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1211
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1211
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1170
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1176
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50797683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1170
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1170
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1170
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1132
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1132
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1129
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1129
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1130
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1130
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1132
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1129
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1129
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1085
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1089
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1089
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1023
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1025
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1014
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1025
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1014
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1029
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 973
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 973
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 973
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 973
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 933
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 933
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_42
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 932
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_43
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 939
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 941
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 887
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_46
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 885
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 885
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_48
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 845
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_49
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 842
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 844
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_51
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 845
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 845
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 843
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 844
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 845
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 804
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_57
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 812
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 805
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 805
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 806
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 808
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_62
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 807
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_63
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 805
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_64
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 805
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_65
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 756
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_66
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 761
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_67
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 756
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_68
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 756
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_69
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 756
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_70
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 756
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_71
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 756
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 715
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_73
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 715
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_74
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 715
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_75
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 715
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 715
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 715
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 715
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_79
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 715
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_80
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 716
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 664
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_82
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 664
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_83
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 664
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_84
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 664
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_85
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 664
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_86
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 664
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_87
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 664
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 618
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_89
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 618
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 618
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_91
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 622
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_92
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 622
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_93
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 622
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_94
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 618
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_95
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 618
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_96
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 618
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_97
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 577
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_98
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 583
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_99
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 577
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 577
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 577
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_102
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 577
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_103
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 539
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_104
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 539
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_105
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 536
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_106
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 536
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_107
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 537
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_108
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 537
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_109
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 539
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_110
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 536
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_111
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 536
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_112
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 492
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_113
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 496
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_114
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 496
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_115
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 430
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_116
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 432
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_117
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 421
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_118
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 432
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_119
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 421
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_120
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 436
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_121
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 380
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_122
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 380
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_123
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 380
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_124
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 380
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_125
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 340
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_126
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 340
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_127
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 339
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_128
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 346
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_129
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 348
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_130
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 294
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_131
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 292
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_132
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 292
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_133
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 252
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_134
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 249
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_135
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 251
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_136
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 252
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_137
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 252
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_138
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 250
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_139
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 251
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_140
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 252
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_141
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 211
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_142
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 219
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_143
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 212
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_144
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 212
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_145
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 213
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_146
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 215
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_147
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 214
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_148
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 212
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_149
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 212
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_150
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 163
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_151
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 168
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_152
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 163
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_153
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 163
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_154
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_155
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 163
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_156
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 163
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_157
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 122
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_158
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_159
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 122
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_160
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 122
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_161
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 122
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_162
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 122
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_163
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 122
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_164
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 122
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_165
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 122
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_166
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 81
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_167
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 81
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_168
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 81
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_169
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 79
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_170
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 79
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_171
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 290
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Knuckle Joe_172
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1197
+        width: 1
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

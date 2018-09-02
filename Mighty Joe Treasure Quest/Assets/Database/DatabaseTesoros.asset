@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91f72d27dcc183544b15802e976dc86a, type: 3}
+  m_Name: DatabaseTesoros
+  m_EditorClassIdentifier: 
+  items:
+  - nombre: brazalete
+    valor: 25000
+    imagen: {fileID: 1925452077950280, guid: 90a0c3d0d95192d48b96ea7efcb1dc05, type: 2}
+    mensaje: {fileID: 1799421286676498, guid: 946fe1c37579faf4abe6e842fba5ac15, type: 2}
+  - nombre: moneda
+    valor: 35000
+    imagen: {fileID: 1165566117236378, guid: 9976721525759ed4390f90dd7f93918a, type: 2}
+    mensaje: {fileID: 1120762344693730, guid: 42c1fcc509235fa42b0462cf3a44be88, type: 2}
+  - nombre: ocarina
+    valor: 80000
+    imagen: {fileID: 1442506647689638, guid: cf76e3f3bbc96ae478741d4d234f24a8, type: 2}
+    mensaje: {fileID: 1045902915266994, guid: 47100cf0aff62534ca92f7166a7424fa, type: 2}
+  - nombre: pluma
+    valor: 90000
+    imagen: {fileID: 1734534827683804, guid: 9dde565029053544daee3544786ef8e2, type: 2}
+    mensaje: {fileID: 1767640311852108, guid: b9aa1f0bf8f2f494883e653a29355d39, type: 2}
+  - nombre: tronco
+    valor: 300000
+    imagen: {fileID: 1403434433541778, guid: 66a3262f524db1541a9966a4aeb42fa4, type: 2}
+    mensaje: {fileID: 1982105411608572, guid: 29127f1dc4484064fb463e1ae6531678, type: 2}
+  - nombre: reloj
+    valor: 350000
+    imagen: {fileID: 1068020932552434, guid: 0eb30126fa2fb3b46afc87dddd377d4a, type: 2}
+    mensaje: {fileID: 1669335975994916, guid: 625e37abdb369914a96658ade1a3b11a, type: 2}
+  - nombre: brujula
+    valor: 30000
+    imagen: {fileID: 1611219958833056, guid: da820658e6c24ba439e1f54a5c74ec9a, type: 2}
+    mensaje: {fileID: 1048979393751516, guid: b0e3798bf4a63134e83f49fdc305ee62, type: 2}
+  - nombre: farol
+    valor: 35000
+    imagen: {fileID: 1843301697916764, guid: 0df8afb761721db46acef006ac31c104, type: 2}
+    mensaje: {fileID: 1186663615531590, guid: 6507bdd2d85bab04182861e62aaf673d, type: 2}
+  - nombre: esmeralda
+    valor: 100000
+    imagen: {fileID: 1292792042051136, guid: 3992fe18987a96c41a69831af9836578, type: 2}
+    mensaje: {fileID: 1080301166397030, guid: e71182d4ce31ad5498739a4a50e0911c, type: 2}
+  - nombre: espadon
+    valor: 130000
+    imagen: {fileID: 1905964436418564, guid: 403648987879ff04da6172bcb9646ed7, type: 2}
+    mensaje: {fileID: 1791543982308086, guid: 5ef423e49cf24214d8b14435f0026ce6, type: 2}
+  - nombre: mithril
+    valor: 500000
+    imagen: {fileID: 1198809591005156, guid: b76210e052c4601499fc09bc843081e4, type: 2}
+    mensaje: {fileID: 1576083611546220, guid: c099fcb134545234baa9cc61df96d7bc, type: 2}
+  - nombre: pf
+    valor: 600000
+    imagen: {fileID: 1458082057088166, guid: 1987d02854b9f8f419576e0318c4118a, type: 2}
+    mensaje: {fileID: 1181386545776120, guid: ea10e4e6acd022a44a93bd10d8ef76e9, type: 2}
+  - nombre: vasija
+    valor: 40000
+    imagen: {fileID: 1874094794036522, guid: 6731f85dde86d8a498fda9c0efdd2615, type: 2}
+    mensaje: {fileID: 1272175577629166, guid: a0299779cf046104bb3ee07b985a950f, type: 2}
+  - nombre: catalejo
+    valor: 120000
+    imagen: {fileID: 1707951109204574, guid: 9f171ce26cd8dda46af487f384d9acc5, type: 2}
+    mensaje: {fileID: 1719143761396768, guid: dc2abd9069033514ea05a754490e2542, type: 2}
+  - nombre: cetro
+    valor: 150000
+    imagen: {fileID: 1728255340369260, guid: 1d912729f0626324a851e7a0ec9cd0a0, type: 2}
+    mensaje: {fileID: 1938786681573692, guid: ad8e61aed90ade34eb1ca9d794fddbf3, type: 2}
+  - nombre: orbe
+    valor: 500000
+    imagen: {fileID: 1677483640576764, guid: 8520afdd3680c2247b261c7faac192e3, type: 2}
+    mensaje: {fileID: 1790848698857160, guid: a829a9724ab467c4f917fecc36789a6b, type: 2}
+  - nombre: collar
+    valor: 650000
+    imagen: {fileID: 1722908848398698, guid: 89f6d5de94b38d0448d2952feaec0f55, type: 2}
+    mensaje: {fileID: 1105086653177984, guid: 708e18cae05e4fe48a8243fbe0037747, type: 2}
+  - nombre: hacha
+    valor: 900000
+    imagen: {fileID: 1597288473200798, guid: cefbbd1419a2ce742b03b85f34c27ab1, type: 2}
+    mensaje: {fileID: 1307013472807596, guid: 7d1164cfb35a1d740bb17d8a74f27c91, type: 2}

@@ -1,0 +1,2442 @@
+fileFormatVersion: 2
+guid: 3d63c7d107bf55848bee4ab0b6caa30d
+timeCreated: 1527977379
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WyvernKnight_0
+    21300002: WyvernKnight_1
+    21300004: WyvernKnight_2
+    21300006: WyvernKnight_3
+    21300008: WyvernKnight_4
+    21300010: WyvernKnight_5
+    21300012: WyvernKnight_6
+    21300014: WyvernKnight_7
+    21300016: WyvernKnight_8
+    21300018: WyvernKnight_9
+    21300020: WyvernKnight_10
+    21300022: WyvernKnight_11
+    21300024: WyvernKnight_12
+    21300026: WyvernKnight_13
+    21300028: WyvernKnight_14
+    21300030: WyvernKnight_15
+    21300032: WyvernKnight_16
+    21300034: WyvernKnight_17
+    21300036: WyvernKnight_18
+    21300038: WyvernKnight_19
+    21300040: WyvernKnight_20
+    21300042: WyvernKnight_21
+    21300044: WyvernKnight_22
+    21300046: WyvernKnight_23
+    21300048: WyvernKnight_24
+    21300050: WyvernKnight_25
+    21300052: WyvernKnight_26
+    21300054: WyvernKnight_27
+    21300056: WyvernKnight_28
+    21300058: WyvernKnight_29
+    21300060: WyvernKnight_30
+    21300062: WyvernKnight_31
+    21300064: WyvernKnight_32
+    21300066: WyvernKnight_33
+    21300068: WyvernKnight_34
+    21300070: WyvernKnight_35
+    21300072: WyvernKnight_36
+    21300074: WyvernKnight_37
+    21300076: WyvernKnight_38
+    21300078: WyvernKnight_39
+    21300080: WyvernKnight_40
+    21300082: WyvernKnight_41
+    21300084: WyvernKnight_42
+    21300086: WyvernKnight_43
+    21300088: WyvernKnight_44
+    21300090: WyvernKnight_45
+    21300092: WyvernKnight_46
+    21300094: WyvernKnight_47
+    21300096: WyvernKnight_48
+    21300098: WyvernKnight_49
+    21300100: WyvernKnight_50
+    21300102: WyvernKnight_51
+    21300104: WyvernKnight_52
+    21300106: WyvernKnight_53
+    21300108: WyvernKnight_54
+    21300110: WyvernKnight_55
+    21300112: WyvernKnight_56
+    21300114: WyvernKnight_57
+    21300116: WyvernKnight_58
+    21300118: WyvernKnight_59
+    21300120: WyvernKnight_60
+    21300122: WyvernKnight_61
+    21300124: WyvernKnight_62
+    21300126: WyvernKnight_63
+    21300128: WyvernKnight_64
+    21300130: WyvernKnight_65
+    21300132: WyvernKnight_66
+    21300134: WyvernKnight_67
+    21300136: WyvernKnight_68
+    21300138: WyvernKnight_69
+    21300140: WyvernKnight_70
+    21300142: WyvernKnight_71
+    21300144: WyvernKnight_72
+    21300146: WyvernKnight_73
+    21300148: WyvernKnight_74
+    21300150: WyvernKnight_75
+    21300152: WyvernKnight_76
+    21300154: WyvernKnight_77
+    21300156: WyvernKnight_78
+    21300158: WyvernKnight_79
+    21300160: WyvernKnight_80
+    21300162: WyvernKnight_81
+    21300164: WyvernKnight_82
+    21300166: WyvernKnight_83
+    21300168: WyvernKnight_84
+    21300170: WyvernKnight_85
+    21300172: WyvernKnight_86
+    21300174: WyvernKnight_87
+    21300176: WyvernKnight_88
+    21300178: WyvernKnight_89
+    21300180: WyvernKnight_90
+    21300182: WyvernKnight_91
+    21300184: WyvernKnight_92
+    21300186: WyvernKnight_93
+    21300188: WyvernKnight_94
+    21300190: WyvernKnight_95
+    21300192: WyvernKnight_96
+    21300194: WyvernKnight_97
+    21300196: WyvernKnight_98
+    21300198: WyvernKnight_99
+    21300200: WyvernKnight_100
+    21300202: WyvernKnight_101
+    21300204: WyvernKnight_102
+    21300206: WyvernKnight_103
+    21300208: WyvernKnight_104
+    21300210: WyvernKnight_105
+    21300212: WyvernKnight_106
+    21300214: WyvernKnight_107
+    21300216: WyvernKnight_108
+    21300218: WyvernKnight_109
+    21300220: WyvernKnight_110
+    21300222: WyvernKnight_111
+    21300224: WyvernKnight_112
+    21300226: WyvernKnight_113
+    21300228: WyvernKnight_114
+    21300230: WyvernKnight_115
+    21300232: WyvernKnight_116
+    21300234: WyvernKnight_117
+    21300236: WyvernKnight_118
+    21300238: WyvernKnight_119
+    21300240: WyvernKnight_120
+    21300242: WyvernKnight_121
+    21300244: WyvernKnight_122
+    21300246: WyvernKnight_123
+    21300248: WyvernKnight_124
+    21300250: WyvernKnight_125
+    21300252: WyvernKnight_126
+    21300254: WyvernKnight_127
+    21300256: WyvernKnight_128
+    21300258: WyvernKnight_129
+    21300260: WyvernKnight_130
+    21300262: WyvernKnight_131
+    21300264: WyvernKnight_132
+    21300266: WyvernKnight_133
+    21300268: WyvernKnight_134
+    21300270: WyvernKnight_135
+    21300272: WyvernKnight_136
+    21300274: WyvernKnight_137
+    21300276: WyvernKnight_138
+    21300278: WyvernKnight_139
+    21300280: WyvernKnight_140
+    21300282: WyvernKnight_141
+    21300284: WyvernKnight_142
+    21300286: WyvernKnight_143
+    21300288: WyvernKnight_144
+    21300290: WyvernKnight_145
+    21300292: WyvernKnight_146
+    21300294: WyvernKnight_147
+    21300296: WyvernKnight_148
+    21300298: WyvernKnight_149
+    21300300: WyvernKnight_150
+    21300302: WyvernKnight_151
+    21300304: WyvernKnight_152
+    21300306: WyvernKnight_153
+    21300308: WyvernKnight_154
+    21300310: WyvernKnight_155
+    21300312: WyvernKnight_156
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WyvernKnight_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1485
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1485
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1485
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1485
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1485
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1485
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1387
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1387
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1385
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1385
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1385
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1385
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1378
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1378
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1378
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1378
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1275
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1279
+        width: 132
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_18
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1268
+        width: 126
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1270
+        width: 119
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_20
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1304
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_21
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1270
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_22
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1299
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1266
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1268
+        width: 75
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1147
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1219
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1202
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1150
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1153
+        width: 124
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1180
+        width: 105
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1142
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1142
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1144
+        width: 71
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_34
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1141
+        width: 72
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_35
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1141
+        width: 68
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1074
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1093
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1025
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1009
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_40
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1009
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_41
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1009
+        width: 45
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_42
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1009
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_43
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1009
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_44
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1009
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_45
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1009
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 988
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 988
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 988
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 988
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 988
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 882
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_52
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 882
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_53
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 880
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_54
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 880
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_55
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 873
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_56
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 873
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 766
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 767
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_59
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 768
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_60
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 768
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_61
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 769
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_62
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 769
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_63
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 836
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_64
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 768
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 757
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_66
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 757
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_67
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 758
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_68
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 758
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_69
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 759
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_70
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 759
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_71
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 759
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_72
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 649
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_73
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 649
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_74
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 652
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_75
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 656
+        width: 132
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_76
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 647
+        width: 126
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_77
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 642
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_78
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 642
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_79
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 643
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_80
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 645
+        width: 75
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_81
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 628
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_82
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 628
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_83
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 628
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 628
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_85
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 628
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_86
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 628
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_87
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 532
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 532
+        width: 100
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_89
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 532
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_90
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 532
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 532
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_92
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 532
+        width: 95
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_93
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 435
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_94
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 484
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_95
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 436
+        width: 95
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_96
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 436
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_97
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 435
+        width: 100
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 462
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 437
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_100
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 420
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_101
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 420
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_102
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 420
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_103
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 420
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_104
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 420
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_105
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 322
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_106
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 322
+        width: 100
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 322
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_108
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 322
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_109
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 324
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_110
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 324
+        width: 97
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_111
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 232
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_112
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 232
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_113
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 233
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_114
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 286
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_115
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 233
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_116
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 233
+        width: 95
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_117
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 233
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_118
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 221
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_119
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 210
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_120
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 210
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_121
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 209
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_122
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 209
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_123
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 209
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_124
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_125
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 207
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_126
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 207
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_127
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_128
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 107
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_129
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 107
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_130
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 109
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_131
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 109
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_132
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 109
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_133
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_134
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 84
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_135
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 49
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_136
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 49
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_137
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 49
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_138
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 49
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_139
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 48
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_140
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 48
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_141
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 59
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_142
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 49
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_143
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 53
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_144
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 56
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_145
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 29
+        width: 111
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_146
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 49
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_147
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 49
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 49
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_149
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 17
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_150
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 17
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_151
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 17
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_152
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 17
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_153
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 17
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_154
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 17
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_155
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 17
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WyvernKnight_156
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 17
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

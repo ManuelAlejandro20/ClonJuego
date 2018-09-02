@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Uppercut
+  - Imagen
+  - Barrera
+  - SistemaGuardaTesoros
+  - Viento
+  - Plataforma
+  - SueloInclinado
+  - Musica lvl3
+  - Bomba
+  - Cofre
+  - PlatMovil
+  - EnemigoVolador
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Suelo
+  - cofre
+  - SueloInclinado
+  - Barrera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

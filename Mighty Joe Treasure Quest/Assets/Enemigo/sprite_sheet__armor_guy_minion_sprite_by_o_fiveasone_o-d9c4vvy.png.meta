@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: d92ccc51d66df31448cbd5fd5ea99ddb
+timeCreated: 1526494177
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_0
+    21300002: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_1
+    21300004: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_2
+    21300006: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_3
+    21300008: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_4
+    21300010: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_5
+    21300012: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_6
+    21300014: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_7
+    21300016: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_8
+    21300018: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_9
+    21300020: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_10
+    21300022: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_11
+    21300024: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_12
+    21300026: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_13
+    21300028: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_14
+    21300030: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_15
+    21300032: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_16
+    21300034: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_17
+    21300036: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_18
+    21300038: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_19
+    21300040: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_20
+    21300042: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_21
+    21300044: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_22
+    21300046: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_23
+    21300048: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_24
+    21300050: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_25
+    21300052: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_26
+    21300054: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_27
+    21300056: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_28
+    21300058: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_29
+    21300060: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_30
+    21300062: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_31
+    21300064: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_32
+    21300066: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_33
+    21300068: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_34
+    21300070: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_35
+    21300072: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_36
+    21300074: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_37
+    21300076: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_38
+    21300078: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_39
+    21300080: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_40
+    21300082: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_41
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 233
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 233
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 233
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 233
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 233
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 233
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 233
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 233
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 232
+        width: 45
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 197
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 197
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 197
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 197
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 197
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 197
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 197
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 197
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 192
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_18
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 191
+        width: 28
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 159
+        width: 31
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 155
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 157
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 155
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 155
+        width: 49
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 155
+        width: 39
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 156
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 156
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 28
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 113
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 88
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 116
+        width: 37
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 116
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_32
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 116
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_33
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 116
+        width: 39
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 49
+        width: 49
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 49
+        width: 50
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_36
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 51
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_37
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 36
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_38
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 11
+        width: 58
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 11
+        width: 56
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_40
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 11
+        width: 59
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_sheet__armor_guy_minion_sprite_by_o_fiveasone_o-d9c4vvy_41
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 22
+        width: 21
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
